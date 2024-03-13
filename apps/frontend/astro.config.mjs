@@ -6,7 +6,7 @@ import angular from '@analogjs/astro-angular';
 
 // https://astro.build/config
 export default defineConfig({
-  outDir: '../../dist/apps/pzps-portal',
+  outDir: '../../dist/apps/frontend',
   i18n: {
     defaultLocale: 'pl',
     locales: ['pl', 'en'],

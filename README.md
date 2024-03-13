@@ -16,7 +16,7 @@ Inside `apps/api` copy `.env.example` file and paste as `.env` file, change fiel
   - NX extension: `frontend/dev` command
   - console command: `npx nx run frontend:dev`
 - build:
-  - NX extension: `api/build` command
+  - NX extension: `frontend/build` command
   - console command: `npx nx run frontend:build`
 
 ### Strapi run:

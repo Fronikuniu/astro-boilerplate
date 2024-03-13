@@ -5,6 +5,7 @@ dist
 tmp
 /out-tsc
 .history
+.angular
 
 # dependencies
 node_modules
@@ -41,3 +42,6 @@ Thumbs.db
 
 .nx/cache
 .astro
+
+
+storybook-static

@@ -6,6 +6,7 @@ tmp
 /out-tsc
 .history
 .angular
+apps/pzps-portal/.env
 
 # dependencies
 node_modules
